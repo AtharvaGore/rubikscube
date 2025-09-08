@@ -1,1 +1,1 @@
-this is rubkis buce
+this is a rubkis cube
