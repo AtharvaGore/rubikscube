@@ -10,8 +10,8 @@
 
 ### CONTROLS
 
-R => Rotate right layer
-L => Rotate left layer
-U => Rotate upper layer
-Shift + R or L or U => Rotate in the opposite direction
-Arrow keys => Rotate the entire cube
+R => Rotate right layer\n
+L => Rotate left layer\n
+U => Rotate upper layer\n
+Shift + R or L or U => Rotate in the opposite direction\n
+Arrow keys => Rotate the entire cube\n
